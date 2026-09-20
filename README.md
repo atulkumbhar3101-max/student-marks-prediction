@@ -1,7 +1,9 @@
 # Student Marks Prediction System 🎓
 
-A Machine Learning web application built with **Streamlit** and **Linear Regression** that predicts a student's final exam marks based on academic and study-related factors[span_2](start_span)[span_2](end_span).
-<img width="1920" height="1521" alt="Image" src="https://github.com/user-attachments/assets/8c9cf613-3df4-4b45-bd21-0d0ec883c70c" />
+A Machine learning web application built with **streamlit** and **linear Regression** to predict student marks based on academic and study-related factors.
+![App Screenshot 1](https://github.com/user-attachments/assets/0d0ec883c70c)
+![App Screenshot 2](https://github.com/user-attachments/assets/5c9bb8e9-b8ff-4b5f-86c4-8e25bed916bd)
+
 ---
 
 ## 📌 Features & Input Factors
