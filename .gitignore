@@ -1,0 +1,9 @@
+# Python cache & virtual environment
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.vscode/
+
+# Database file (uncomment if you don't want to upload prediction.db to GitHub)
+# prediction.db
