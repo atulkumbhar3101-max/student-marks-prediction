@@ -1,8 +1,7 @@
 # Student Marks Prediction System 🎓
 
 A Machine learning web application built with **streamlit** and **linear Regression** to predict student marks based on academic and study-related factors.
-![App Screenshot 1](https://github.com/user-attachments/assets/0d0ec883c70c)
-![App Screenshot 2](https://github.com/user-attachments/assets/5c9bb8e9-b8ff-4b5f-86c4-8e25bed916bd)
+![App Screenshot 1](./screencapture-localhost-8501-2026-09-20-16_26_38.png)
 
 ---
 
